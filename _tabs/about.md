@@ -3,12 +3,12 @@ title: 关于
 icon: fas fa-info
 order: 4
 ---
-- ### Hi there 👋, I'm Tom!
 
-  - 🏫  _BSc in Computer Science_.
-  - 💻  I work on C / C++ / Java / Objective-C & Swift / Python / Markdown.
-  - 🧠  I used to take internship as an iOS developer at Bytedance Techonology.
-  - 🏖️  I will go to Shenzhen and work as a back-end engineer at Tencent.
+- ### Hi there 👋, I'm XinChen!
 
-公众号: 汤姆还在写代码
+  - 🏫 双非学校的工科小透明
+  - 💻 喜欢嵌入式视觉，喜欢人工智能的开发应用
+  - 🧠 Python 才是世界上最好的语言（doge）
+  - 🏖️ 开发板の收藏家
 
+公众号: 最鑫评测
